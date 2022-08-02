@@ -2,7 +2,7 @@
 
 ## HTTP Headers
 
-https://securityheaders.com/
+[https://securityheaders.com/](https://securityheaders.com/)
 
 * Strict-Transport-Security
 * Content-Security-Policy
@@ -44,4 +44,4 @@ Prevents Google Chrome and Internet Explorer from trying to mime-sniff the conte
 
 ## TLS
 
-https://observatory.mozilla.org/
+[https://observatory.mozilla.org/](https://observatory.mozilla.org/)

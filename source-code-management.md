@@ -8,8 +8,8 @@ Git is decentralized, or distributed. This means that to edit, developers downlo
 
 ## New to Git?
 
-1. https://www.atlassian.com/git
-2. https://learngitbranching.js.org/
+* [https://www.atlassian.com/git](https://www.atlassian.com/git)
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
 
 ## Git Branching Strategy
@@ -19,7 +19,7 @@ Git is decentralized, or distributed. This means that to edit, developers downlo
 
 ### GitFlow
 
-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+[https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ![gitflow](./assets/gitflow.png)
 
