@@ -31,25 +31,25 @@
   - https://overreacted.io/why-isnt-x-a-hook/
   - https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks
 
-- React State Management
+## React State Management
   - https://daveceddia.com/react-state-management
 
-- React State Management (useState)
+### React State Management (useState)
 
   - https://reactjs.org/docs/hooks-state.html
 
-- React State Management (useReducer)
+### React State Management (useReducer)
 
   - https://www.robinwieruch.de/react-usereducer-hook
   - https://github.com/aikoven/typescript-fsa
   - https://github.com/dphilipson/typescript-fsa-reducers
 
-- React State Management (context + useState or useReducer)
+### React State Management (context + useState or useReducer)
 
   - https://kentcdodds.com/blog/application-state-management-with-react
   - https://kentcdodds.com/blog/how-to-use-react-context-effectively
 
-- React State Management (redux)
+### React State Management (redux)
 
   - https://egghead.io/courses/getting-started-with-redux
   - https://redux.js.org/introduction/three-principles
@@ -58,11 +58,11 @@
   - https://redux.js.org/basics/data-flow
   - https://redux.js.org/introduction/learning-resources
 
-- React Testing
+## React Testing
 
   - https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
 
-- React Performance
+## React Performance
 
   - https://kentcdodds.com/blog/usememo-and-usecallback
   - https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster

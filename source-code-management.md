@@ -21,6 +21,9 @@ Git is decentralized, or distributed. This means that to edit, developers downlo
 
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
+![gitflow](./assets/gitflow.png)
+
 ### Trunk-based Development
 
+![trunk-based-development](./assets/trunk-based.png)
 
