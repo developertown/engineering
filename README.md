@@ -6,6 +6,7 @@
 * [Time Entry Policy](https://docs.google.com/document/d/1I4ZfkBsSAltKY2BM4OoO5OsdNkizsy9L5cuGye1VQoo/edit?usp=sharing)
 * [Workvivo](https://developertown.workvivo.com/)
 * [KnowBe4](https://training.knowbe4.com/ui/dashboard)
+* [Vision, Mission and Values](./vision-mission-values.md)
 
 ## Team Resources
 
