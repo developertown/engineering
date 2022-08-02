@@ -28,3 +28,7 @@
 - Browser Features
   - https://caniuse.com/
   - https://whatwebcando.today/
+
+- Kotlin
+  - https://kotlinlang.org/docs/basic-syntax.html
+  - https://www.coursera.org/learn/kotlin-for-java-developers

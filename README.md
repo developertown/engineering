@@ -23,7 +23,12 @@
 ### General 
 * [Source Code Management](./source-code-management.md)
 * [Approach to Code Review](./code-review.md)
-* [Release Managmenet](./release-management.md)
+* [Release Management](./release-management.md)
+* [Developing for multiple Environments](./environments.md)
+* [Reading List](./reading.md)
+
+### Security
+* [Security Headers and TLS](./security.md)
 
 ### [Web Applications](./web-applications/README.md)
 ### [Mobile Applications](./mobile-applications/README.md)
